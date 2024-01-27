@@ -14,4 +14,4 @@ Welcome to the OpenSealion organization. OpenSealion is mainly developed by the 
 - [Sealion-Client](https://github.com/opensealion/sealion-client): The frontend material building tool supports building projects, components and CICD configuration files. The project consists of one building tool and four templates.
 
 ## Backend
-- [Open-AOE](https://github.com/opensealion/open-aoe): A single-prompt-multiple-LLM-responses framework, make the way to simultaneously use different LLMs easier.
+- [OpenAOE](https://github.com/internlm/openaoe): A single-prompt-multiple-LLM-responses framework, make the way to simultaneously use different LLMs easier.
